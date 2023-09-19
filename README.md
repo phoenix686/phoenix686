@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Deep Learning,Generative AI & IoT**
 
-- 📫 How to reach me **poojasingari26@gmail.com**
+- 📫 How to reach me: **poojasingari26@gmail.com**
 
 
 <p align="left">
