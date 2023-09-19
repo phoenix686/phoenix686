@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 <h3 align="center">An AI & IoT enthusiast</h3>
 
-<img align="right" alt="Coding" width="300" src="rocket.gif">
+<img align="right" alt="Coding" width="350" src="rocket.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redknight648&label=Profile%20views&color=0e75b6&style=flat" alt="redknight648" /> </p>
 
 - 🔭 I’m currently working on **Deep Learning,Generative AI & IoT**
