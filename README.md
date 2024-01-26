@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="350" src="rocket.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redknight648&label=Profile%20views&color=0e75b6&style=flat" alt="redknight648" /> </p>
 
-- 🔭 I’m currently working on **Deep Learning,Generative AI & IoT**
+- 🔭 I’m currently working on **Machine Learning,Deep Learning,Generative AI & IoT**
 
 - 📫 How to reach me: **poojasingari26@gmail.com**
 
