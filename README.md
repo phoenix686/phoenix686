@@ -4,11 +4,16 @@
 
 <h3 align="center">An AI & IoT enthusiast</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=redknight648&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://www.linkedin.com/in/pooja-30bbb2259" target="_blank">
+    <img src="https://img.shields.io/badge/Pooja-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redknight648&label=Profile%20views&color=0e75b6&style=flat" alt="redknight648" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning,Deep Learning,Generative AI & IoT**
+
 
 - 📫 How to reach me: **poojasingari26@gmail.com**
 
