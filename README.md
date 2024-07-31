@@ -1,4 +1,5 @@
-![image](https://github.com/redknight648/redknight648/assets/97392797/49e801ad-8661-4aba-b7d6-19ba322da0bd)
+<img width="1834" alt="Make your README2" src="https://github.com/user-attachments/assets/36d2f56e-85b3-4d22-9825-e68d79f33ccd">
+
 <img align="right" alt="Coding" width="350" src="rocket.gif">
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 
