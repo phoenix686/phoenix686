@@ -1,4 +1,4 @@
-<img width="1834" alt="Make your README2" src="https://github.com/user-attachments/assets/36d2f56e-85b3-4d22-9825-e68d79f33ccd">
+<img width="1834" alt="Make your README2" src="https://github.com/user-attachments/assets/4997fd42-46b9-4146-b7b7-4d175ebb78db">
 
 <img align="right" alt="Coding" width="350" src="rocket.gif">
 <h1 align="center">Hi 👋, I'm Pooja</h1>
@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on **Machine Learning,Deep Learning,Generative AI & IoT**
 
-- 📫 How to reach me: **poojasingari26@gmail.com**
 
 <p align="left">
 </p>
