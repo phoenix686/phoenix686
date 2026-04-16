@@ -1,6 +1,5 @@
-<img width="1834" alt="Make your README2" src="https://github.com/user-attachments/assets/14e8a7b9-93db-47ae-9205-54a54657a23a" />
-
-
+<img width="1834" alt="Make your README2" src="https://github.com/user-attachments/assets/db030f7a-d069-42eb-a117-d55d68fa5bd3" />
+ 
 <img align="right" alt="Coding" width="350" src="rocket.gif">
 <h1 align="center">Hi 👋, I'm Pooja</h1>
 
